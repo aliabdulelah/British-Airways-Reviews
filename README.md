@@ -35,11 +35,11 @@ In this project, you are going to analyze this big  [dataset](https://github.com
 
 1. ba_reviews.csv. It contains 1324 Rows and 19 Columns
 
-Header: The header or title of the customer's review.
+Header - The header or title of the customer's review.
   <br>
-Author: The name of the customer providing the feedback.
+Author - The name of the customer providing the feedback.
   <br>
- date: The date and time when the feedback was posted.
+ date - The date and time when the feedback was posted.
   <br>
 place -  country of the reviewer
   <br>
