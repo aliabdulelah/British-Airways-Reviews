@@ -132,6 +132,7 @@ Between March 2016 and October 2023, reviews consistently praise the cabin staff
 <br>
 
 2. which areas received the lowest ratings for British Airways?
+   
 Customer reviews from March 2016 to October 2023 highlight BA's in-flight entertainment as a notable weak point. addressing this is crucial, given BA's status as the UK's largest international carrier and the likelihood of longer flights, where quality entertainment is paramount.
 
 <br>
