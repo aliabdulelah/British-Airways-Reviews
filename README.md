@@ -75,11 +75,11 @@ value_for_money -  Rating for the value for money.
 
 2. Countries.csv. It contains 250 Rows and 4 Columns
 
-Country: the name of the country.
+Country - the name of the country.
   <br>
-Code:  unique code assigned to each country.
+Code - unique code assigned to each country.
   <br>
- Continent: Indicates the major landmass or geographical region where the country is located, like "North America," "Europe," or "Asia.".
+ Continent - Indicates the major landmass or geographical region where the country is located, like "North America," "Europe," or "Asia.".
   <br>
 Region -  Specifies a more specific area within the continent where the country is situated, such as "Southeast Asia," "Western Europe," or "Sub-Saharan Africa."
   <br>
