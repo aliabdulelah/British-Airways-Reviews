@@ -126,6 +126,7 @@ EDA involves exploring the data to unravel insights that will guide the airline 
 <br>
 
 1. Which aspects garnered the highest praise from British Airways patrons?
+   
 Between March 2016 and October 2023, reviews consistently praise the cabin staff service and ground service.
 
 <br>
@@ -140,18 +141,21 @@ Customer reviews from March 2016 to October 2023 highlight BA's in-flight entert
 
 
 3. Which type of travelers tends to leave the most favorable appraisals?
+   
 Solo and a couple of leisure travelers consistently leave the most positive reviews, with average ratings of 4.3, Both solo and couple leisure travelers consistently commend the cabin staff and ground service, which stand out as the strongest in their reviews. Meanwhile, the ongoing area for improvement remains in-flight entertainment. Addressing this aspect could significantly enhance passengers' overall satisfaction in both groups.
 
 <br>
 <br>
 
 4. What are the primary things points that need to be developed that face travelers?
+   
 the primary pain point that took the lowest reviews for entertainment, which has an average rating of 1.4. This suggests that travelers are dissatisfied with the entertainment offerings provided during their flights. Addressing this issue by improving the selection of movies, shows, and other entertainment options can greatly enhance the overall travel experience for passengers.
 
 <br>
 <br>
 
 5. Should the focus be directed towards accommodating family units or individuals traveling solo?
+   
 Families left the lowest average review scores overall. In contrast, solo and couple leisure travelers provided similar review scores across all aspects. This insight is valuable, especially considering that business travelers, who often travel alone, may share similar preferences and expectations with solo leisure travelers.
 
 
@@ -159,12 +163,14 @@ Families left the lowest average review scores overall. In contrast, solo and co
 <br>
 
 6. Do patrons traveling for leisure or those on business business exhibit greater contentment with British Airways' offerings?
+   
 Despite similar average ratings across all categories, leisure travelers exhibited more positivity in each aspect compared to other traveler groups. Additionally, when excluding families from the analysis, leisure travelers tend to leave even more positive ratings.
 
 <br>
 <br>
 
 7. Are the rating scores depicting an upward or downward over time?
+   
 From March 2016 to October 2023, there's a noticeable downward trend in the rating scores. This decline seems to stem from various factors. Initially, there was a significant dip in reviews during 2020, likely due to widespread flight cancellations amid the COVID-19 pandemic. Moreover, BA's decision to reduce flights again in early 2022, prompted by the emergence of the Omicron variant, contributed to the negative slope. Additionally, the existence of a class action lawsuit against BA for its handling of refunds related to COVID-19 cancellations further impacts customer sentiment. While speculative, it's plausible that these events and BA's treatment of customers during and after the pandemic have contributed to the declining trend in review scores since 2022.
 
 
@@ -172,6 +178,7 @@ From March 2016 to October 2023, there's a noticeable downward trend in the rati
 <br>
 
 8. Which aircraft receive the highest rating and which ones garner the lowest ratings from British Airways passengers?
+   
 analysis indicates that the A321 aircraft receives the lowest ratings from British Airways passengers. This finding is based on comprehensive data analysis of customer reviews and ratings spanning a significant period. By identifying the specific aircraft associated with lower ratings, British Airways can focus on targeted improvements or modifications to enhance the passenger experience on these aircraft types. This data-driven approach enables British Airways to prioritize resources effectively and address areas of concern to improve overall customer satisfaction.
 
 
