@@ -1,4 +1,4 @@
-# British-Airways-Reviews
+![image](https://github.com/aliabdulelah/British-Airways-Reviews/assets/129835709/92596291-0483-4526-925d-76b1e42a4639)![image](https://github.com/aliabdulelah/British-Airways-Reviews/assets/129835709/e41a0a51-c4fe-470e-88f4-0f7c3cd0ee02)![image](https://github.com/aliabdulelah/British-Airways-Reviews/assets/129835709/a73c902d-6de8-4e98-b1f3-1d6ee88e89fe)# British-Airways-Reviews
 
 ![British Airlines](https://github.com/aliabdulelah/British-Airways-Reviews/assets/129835709/218c4c01-0d5e-430f-a95c-4442cef80fa8)
 
@@ -13,7 +13,7 @@
 - [Results/Findings](#Data-Analysis-Results-Findings)
 
  <br>
-  <br>
+ <br>
 
 ## Project Overview
 
@@ -31,25 +31,57 @@ In this project, you are going to analyze this big  [dataset](https://github.com
 <be>
 
 ### Data Tables
-2 tables will we use for our analysis project  :
+ 2 tables will we use for our analysis project  :
 
-1. ba_reviews.csv. It contains 1324 Rows
+1. ba_reviews.csv. It contains 1324 Rows and 19 Columns
 
-date - date of the match
+Header: The header or title of the customer's review.
   <br>
-home_team - the name of the home team
+Author: The name of the customer providing the feedback.
   <br>
-away_team -  the name of the away team
+ date: The date and time when the feedback was posted.
   <br>
-home_score - full-time home team score including extra time, not including penalty-shootouts
+place -  country of the reviewer
   <br>
-away_score - full-time away team score including extra time, not including penalty-shootouts
+content - full review Description 
   <br>
-tournament - the name of the tournament
+aircraft - The aircraft used for the flight.
   <br>
-city - the name of the city/town/administrative unit where the match was played
+traveller_type -  The type of traveler (e.g., Business, Leisure).
   <br>
-country - the name of the country where the match was played
+seat_type - Class of the traveler (e.g. Business, Economy).
   <br>
-neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
+route - The flight route taken by the customer.
+  <br>
+date_flown - The date when the flight was taken.
+  <br>
+recommended - Whether the customer recommends British Airways.
+  <br>
+trip_verified - Indicates whether the trip is verified or not.
+  <br>
+rating - The overall rating given by the customer.
+  <br>
+seat_comfort -Rating for seat comfort.
+  <br>
+cabin_staff_service - Rating for cabin staff service.
+  <br>
+food_beverages - Rating for food and beverages.
+  <br>
+ground_service -Rating for ground service.
+  <br>
+value_for_money -  Rating for the value for money.
+  <br>
+ entertainment -Rating for entertainment
 
+2. Countries.csv. It contains 250 Rows and 4 Columns
+
+Country: the name of the country.
+  <br>
+Code:  unique code assigned to each country.
+  <br>
+ Continent: Indicates the major landmass or geographical region where the country is located, like "North America," "Europe," or "Asia.".
+  <br>
+Region -  Specifies a more specific area within the continent where the country is situated, such as "Southeast Asia," "Western Europe," or "Sub-Saharan Africa."
+  <br>
+
+  
