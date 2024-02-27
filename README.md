@@ -47,9 +47,9 @@ content - full review Description
   <br>
 aircraft - The aircraft used for the flight.
   <br>
-traveller_type -  The type of traveler (e.g., Business, Leisure).
+traveller_type -  The type of traveler as (Business, Leisure).
   <br>
-seat_type - Class of the traveler (e.g. Business, Economy).
+seat_type - Class of the traveler as ( Business, Economy).
   <br>
 route - The flight route taken by the customer.
   <br>
