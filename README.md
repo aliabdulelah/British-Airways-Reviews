@@ -147,4 +147,22 @@ Solo and a couple of leisure travelers consistently leave the most positive revi
 4. What are the primary things points that need to be developed that face travelers?
 the primary pain point that took the lowest reviews for entertainment, which has an average rating of 1.4. This suggests that travelers are dissatisfied with the entertainment offerings provided during their flights. Addressing this issue by improving the selection of movies, shows, and other entertainment options can greatly enhance the overall travel experience for passengers.
 
+<br>
+<br>
+
 5. Should the focus be directed towards accommodating family units or individuals traveling solo?
+Families left the lowest average review scores overall. In contrast, solo and couple leisure travelers provided similar review scores across all aspects. This insight is valuable, especially considering that business travelers, who often travel alone, may share similar preferences and expectations with solo leisure travelers.
+
+
+<br>
+<br>
+
+6. Do patrons traveling for leisure or those on business business exhibit greater contentment with British Airways' offerings?
+Despite similar average ratings across all categories, leisure travelers exhibited more positivity in each aspect compared to other traveler groups. Additionally, when excluding families from the analysis, leisure travelers tend to leave even more positive ratings.
+
+<br>
+<br>
+
+7. Are the rating scores depicting an upward or downward trajectory over time?
+
+
