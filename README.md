@@ -163,6 +163,24 @@ Despite similar average ratings across all categories, leisure travelers exhibit
 <br>
 <br>
 
-7. Are the rating scores depicting an upward or downward trajectory over time?
+7. Are the rating scores depicting an upward or downward over time?
+From March 2016 to October 2023, there's a noticeable downward trend in the rating scores. This decline seems to stem from various factors. Initially, there was a significant dip in reviews during 2020, likely due to widespread flight cancellations amid the COVID-19 pandemic. Moreover, BA's decision to reduce flights again in early 2022, prompted by the emergence of the Omicron variant, contributed to the negative slope. Additionally, the existence of a class action lawsuit against BA for its handling of refunds related to COVID-19 cancellations further impacts customer sentiment. While speculative, it's plausible that these events and BA's treatment of customers during and after the pandemic have contributed to the declining trend in review scores since 2022.
 
 
+<br>
+<br>
+
+8. Which aircraft receive the highest rating and which ones garner the lowest ratings from British Airways passengers?
+analysis indicates that the A321 aircraft receives the lowest ratings from British Airways passengers. This finding is based on comprehensive data analysis of customer reviews and ratings spanning a significant period. By identifying the specific aircraft associated with lower ratings, British Airways can focus on targeted improvements or modifications to enhance the passenger experience on these aircraft types. This data-driven approach enables British Airways to prioritize resources effectively and address areas of concern to improve overall customer satisfaction.
+
+
+<br>
+<br>
+
+### Data-Analysis-Results-Findings
+
+1. Priority on In-Flight Entertainment: British Airways needs to focus on improving the in-flight entertainment experience, especially on the A321 aircraft, which consistently receives the lowest ratings from passengers.
+
+2. Leverage Strengths in Cabin and Ground Service: The airline should continue to capitalize on its strengths in cabin and ground service, as these aspects have consistently garnered high praise from patrons.
+
+3. Addressing Customer Concerns: Efforts should be directed towards addressing specific customer concerns, such as the decline in rating scores over time, which could involve enhancing communication, transparency, and responsiveness to passenger feedback.
